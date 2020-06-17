@@ -1,0 +1,8 @@
+{
+  "name": "import-balena-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "balena-cli": "^12.1.0"
+  }
+}
